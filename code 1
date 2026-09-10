@@ -7,3 +7,10 @@ int main() {
 kjdshf aäöijklfa
 nglkajsh-eökkg
 al-lije
+
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
