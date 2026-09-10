@@ -5,3 +5,10 @@ sghshj
 1  
 ÄLK§ L  KHTJK wÄo^
 ^^ ^h1 lûj
+
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
